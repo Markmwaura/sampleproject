@@ -1,0 +1,18 @@
+.centerhome{
+    text-align: center;
+margin-top: 10%;
+    background-color: aqua;
+}; 
+.btmenulink.small-1.small-offset-11.columns {
+    color: red;
+}
+.trial{
+    height: 180px;
+    background-color: brown;
+}
+
+@media only screen and (max-width: 768px) {
+    .centerhome {
+        margin-top: 30%;
+    }
+}
