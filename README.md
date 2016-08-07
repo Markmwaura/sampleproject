@@ -1,2 +1,2 @@
 # sampleproject
-This is collaborative work done in HTML,CSS,JAVASCRIPT and FOUNDATION framework
+This is collaborative work done with animations, Html, Css, Javascript and Foundation Framework
