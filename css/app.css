@@ -1,18 +1,32 @@
-.centerhome{
+.centerhome {
     text-align: center;
-margin-top: 10%;
+    margin-top: 10%;
     background-color: aqua;
-}; 
-.btmenulink.small-1.small-offset-11.columns {
-    color: red;
 }
-.trial{
+
+/*
+#btn{
+    margin-top: 950px;
+    padding-top: 950px;
+}
+*/
+
+.trial {
     height: 180px;
     background-color: brown;
 }
 
-@media only screen and (max-width: 768px) {
-    .centerhome {
-        margin-top: 30%;
-    }
+.center{
+    text-align: center;
+    margin-top: 10%;
+}
+.width{
+    width: 20%;
+}
+.column{
+    text-align: center;
+    color: floralwhite;
+}
+body{
+    background-image: url(../img/1.jpg);
 }
