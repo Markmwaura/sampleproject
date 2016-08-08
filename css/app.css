@@ -1,0 +1,30 @@
+.centerhome {
+    text-align: center;
+    margin-top: 10%;
+    background-color: aqua;
+}
+
+#btn{
+    margin-top: 22%;
+    color: greenyellow;
+}
+
+.trial {
+    height: 180px;
+    background-color: brown;
+}
+
+.center{
+    text-align: center;
+    margin-top: 10%;
+}
+.width{
+    width: 20%;
+}
+.column{
+    text-align: center;
+    color: floralwhite;
+}
+body{
+    background-image: url(../img/1.jpg);
+}
